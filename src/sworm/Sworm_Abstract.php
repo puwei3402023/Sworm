@@ -9,6 +9,7 @@
 // | Author: Dizy <derzart@gmail.com>
 // +----------------------------------------------------------------------
 
+namespace SwormApplication;
 //------------------------
 // Sworm Abstract Class
 //-------------------------
