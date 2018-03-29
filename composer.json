@@ -1,0 +1,22 @@
+{
+  "name": "puweiyuer/Sworm",
+  "description": "Swoole asynchronous MySQL",
+  "keywords": ["yii-2.0", "swoole","Mysql","sworm"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "weizi",
+      "email": "517421372@qq.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "require-dev": {
+  },
+  "autoload": {
+    "psr-4": {
+      "SwormApplication\\":"src-nopolling/"
+    }
+  }
+}
