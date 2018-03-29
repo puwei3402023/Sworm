@@ -1,5 +1,5 @@
 {
-  "name": "puweiyuer/Sworm",
+  "name": "puweiyuer/sworm",
   "description": "Swoole asynchronous MySQL",
   "keywords": ["yii-2.0", "swoole","Mysql","sworm"],
   "license": "MIT",
